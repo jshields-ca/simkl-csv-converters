@@ -1,0 +1,23 @@
+# Generated CSV output from the converters (default filenames and common variants)
+simkl_import.csv
+simkl_tautulli_import.csv
+simkl_*.csv
+
+# Trakt export archives users extract locally to run the converter
+watched-history-*.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

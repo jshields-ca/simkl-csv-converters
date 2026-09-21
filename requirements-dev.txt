@@ -1,0 +1,4 @@
+# Development-only dependencies (linting, tests).
+# The converters themselves remain zero-dependency at runtime.
+pytest>=7.0
+flake8>=6.0
